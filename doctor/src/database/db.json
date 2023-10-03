@@ -1,0 +1,44 @@
+{
+  "doctors": [
+    {
+      "name": "name1",
+      "age": "25",
+      "gender": "M",
+      "experience": "4 years",
+      "expertise": "Immunologist",
+      "bookings": 0
+    },
+    {
+      "name": "name2",
+      "age": "25",
+      "gender": "M",
+      "experience": "5 years",
+      "expertise": "Cardiologist",
+      "bookings": 9
+    },
+    {
+      "name": "name3",
+      "age": "25",
+      "gender": "F",
+      "experience": "6 years",
+      "expertise": "Dermatologist",
+      "bookings": "10"
+    },
+    {
+      "name": "name4",
+      "age": "25",
+      "gender": "F",
+      "experience": "7 years",
+      "expertise": "Hematologist",
+      "bookings": "10"
+    },
+    {
+      "name": "name5",
+      "age": "25",
+      "gender": "M",
+      "experience": "8 years",
+      "expertise": "Neurologist",
+      "bookings": "10"
+    }
+  ]
+}
